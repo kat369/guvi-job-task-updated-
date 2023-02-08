@@ -1,0 +1,12 @@
+{
+    "_id": {
+        "$oid": "63e3c1b7f7450000c8000657"
+    },
+    "email": "test@gmail.com",
+    "name": "test new one",
+    "dateofbirth": "2023-02-18",
+    "mobile": "25863552",
+    "address": "xyz",
+    "pincode": "63850444",
+    "date of birth": "2023-02-18"
+}
